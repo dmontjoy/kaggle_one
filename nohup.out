@@ -1,0 +1,36 @@
+[W 15:29:01.560 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 15:29:01.582 NotebookApp] JupyterLab alpha preview extension loaded from /root/anaconda3/lib/python3.6/site-packages/jupyterlab
+JupyterLab v0.27.0
+Known labextensions:
+[I 15:29:01.583 NotebookApp] Running the core application with no additional extensions or settings
+[I 15:29:01.586 NotebookApp] Serving notebooks from local directory: /home/ec2-user/notebook/kaggle_one
+[I 15:29:01.586 NotebookApp] 0 active kernels 
+[I 15:29:01.586 NotebookApp] The Jupyter Notebook is running at: http://[all ip addresses on your system]:8888/
+[I 15:29:01.586 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 15:29:53.845 NotebookApp] Kernel started: 00a0dbd2-67eb-478d-94e2-2588fbf4bf1e
+[I 15:29:54.610 NotebookApp] Adapting to protocol v5.1 for kernel 00a0dbd2-67eb-478d-94e2-2588fbf4bf1e
+[W 15:30:22.897 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20180113152901 (179.7.69.192) 6.88ms referer=http://18.231.3.113:8888/notebooks/1FinalPreModelMminst.ipynb
+[W 15:31:33.453 NotebookApp] 404 GET http://47.95.231.250:58204/ip_js.php?IP=18.231.3.113&DK=8888&DD=XDWNZVZQRFKWZCYR (61.176.220.76) 1.58ms referer=None
+[W 15:31:52.880 NotebookApp] 404 GET http://47.95.231.250:58204/ip_js.php?IP=18.231.3.113&DK=8888&DD=XDWNZVZQRFKWZCYR (61.176.220.76) 1.33ms referer=None
+[I 15:31:54.837 NotebookApp] Saving file at /1FinalPreModelMminst.ipynb
+[I 15:33:55.099 NotebookApp] Saving file at /1FinalPreModelMminst.ipynb
+[I 15:41:54.474 NotebookApp] Saving file at /1FinalPreModelMminst.ipynb
+2018-01-13 15:42:13.682403: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2 FMA
+[I 15:43:55.674 NotebookApp] Saving file at /1FinalPreModelMminst.ipynb
+[I 15:45:54.469 NotebookApp] Saving file at /1FinalPreModelMminst.ipynb
+[I 15:47:55.036 NotebookApp] Saving file at /1FinalPreModelMminst.ipynb
+[I 15:51:57.150 NotebookApp] 302 GET / (179.7.69.192) 0.44ms
+[I 15:51:57.390 NotebookApp] Saving file at /1FinalPreModelMminst.ipynb
+[I 15:52:44.080 NotebookApp] Copying 1FinalPreModelMminst.ipynb to 
+[I 15:52:52.917 NotebookApp] Kernel started: 6f23d847-f431-425f-a380-1511ae95aa9c
+[I 15:52:53.693 NotebookApp] Adapting to protocol v5.1 for kernel 6f23d847-f431-425f-a380-1511ae95aa9c
+[I 15:56:54.177 NotebookApp] Saving file at /1FinalPreModelMminst-Copy1.ipynb
+[I 15:58:54.192 NotebookApp] Saving file at /1FinalPreModelMminst-Copy1.ipynb
+[W 16:02:45.306 NotebookApp] 404 GET http://47.95.231.250:58204/ip_js.php?IP=18.231.3.113&DK=8888&DD=FOQGCINPZHEHIIFR (123.249.27.191) 1.21ms referer=None
+[I 16:02:53.561 NotebookApp] Saving file at /1FinalPreModelMminst-Copy1.ipynb
+[W 16:03:07.730 NotebookApp] 404 GET http://47.95.231.250:58204/ip_js.php?IP=18.231.3.113&DK=8888&DD=FOQGCINPZHEHIIFR (123.249.27.191) 1.37ms referer=None
+[I 16:04:04.835 NotebookApp] Saving file at /1FinalPreModelMminst-Copy1.ipynb
+[C 16:04:39.517 NotebookApp] received signal 15, stopping
+[I 16:04:39.518 NotebookApp] Shutting down kernels
+[I 16:04:39.619 NotebookApp] Kernel shutdown: 00a0dbd2-67eb-478d-94e2-2588fbf4bf1e
+[I 16:04:39.619 NotebookApp] Kernel shutdown: 6f23d847-f431-425f-a380-1511ae95aa9c
