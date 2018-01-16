@@ -1,0 +1,463 @@
+Arquitectura:  84-400-300-200-100-50-25-2  Learning Rate:  0.00011  Dropout  1  Epoch:  1000  Inicializar:  1
+Cost after epoch 0: 0.516938
+Cost after epoch 10: 0.275040
+Cost after epoch 20: 0.244974
+Cost after epoch 30: 0.223764
+Cost after epoch 40: 0.206544
+Cost after epoch 50: 0.193939
+Cost after epoch 60: 0.185581
+Cost after epoch 70: 0.175643
+Cost after epoch 100: 0.155531
+Cost after epoch 110: 0.150398
+Cost after epoch 120: 0.148091
+Cost after epoch 130: 0.143660
+Cost after epoch 140: 0.138519
+Cost after epoch 150: 0.134246
+Cost after epoch 160: 0.131731
+Cost after epoch 170: 0.127130
+Cost after epoch 180: 0.125983
+Cost after epoch 190: 0.123189
+Cost after epoch 200: 0.120909
+Cost after epoch 210: 0.117970
+Cost after epoch 220: 0.114958
+Cost after epoch 230: 0.113067
+Cost after epoch 240: 0.112358
+Cost after epoch 250: 0.110203
+Cost after epoch 260: 0.107040
+Cost after epoch 270: 0.106604
+Cost after epoch 280: 0.104753
+Cost after epoch 290: 0.101441
+Cost after epoch 300: 0.100439
+Cost after epoch 310: 0.101113
+Cost after epoch 320: 0.098347
+Cost after epoch 330: 0.097185
+Cost after epoch 340: 0.096652
+Cost after epoch 350: 0.094087
+Cost after epoch 360: 0.092469
+Cost after epoch 370: 0.092502
+Cost after epoch 380: 0.091384
+Cost after epoch 390: 0.088381
+Cost after epoch 400: 0.088142
+Cost after epoch 410: 0.087981
+Cost after epoch 420: 0.084383
+Cost after epoch 430: 0.087117
+Cost after epoch 440: 0.085045
+Cost after epoch 450: 0.082929
+Cost after epoch 460: 0.081531
+Cost after epoch 470: 0.081877
+Cost after epoch 480: 0.083838
+Cost after epoch 530: 0.078375
+Cost after epoch 540: 0.074979
+Cost after epoch 550: 0.076523
+Cost after epoch 560: 0.074586
+Cost after epoch 570: 0.075750
+Cost after epoch 580: 0.074658
+Cost after epoch 590: 0.073180
+Cost after epoch 600: 0.070979
+Cost after epoch 610: 0.073896
+Cost after epoch 620: 0.072997
+Cost after epoch 630: 0.071924
+
+
+Arquitectura:  84-1000-500-2  Learning Rate:  9e-05  Dropout  1  Epoch:  1000  Inicializar:  2
+Cost after epoch 0: 0.327369
+Cost after epoch 10: 0.269514
+Cost after epoch 20: 0.243659
+Cost after epoch 30: 0.223536
+Cost after epoch 40: 0.207907
+Cost after epoch 80: 0.166136
+Cost after epoch 90: 0.158795
+Cost after epoch 100: 0.153624
+Cost after epoch 110: 0.147573
+Cost after epoch 120: 0.143010
+Cost after epoch 130: 0.138337
+Cost after epoch 140: 0.132139
+Cost after epoch 150: 0.130169
+Cost after epoch 160: 0.123834
+Cost after epoch 170: 0.120536
+Cost after epoch 180: 0.117534
+Cost after epoch 190: 0.114874
+Cost after epoch 200: 0.113425
+Cost after epoch 210: 0.110300
+Cost after epoch 220: 0.107724
+Cost after epoch 230: 0.105965
+Cost after epoch 240: 0.103782
+Cost after epoch 250: 0.100942
+Cost after epoch 260: 0.098482
+Cost after epoch 270: 0.095673
+Cost after epoch 280: 0.093385
+Cost after epoch 290: 0.092808
+Cost after epoch 300: 0.091882
+Cost after epoch 310: 0.090281
+Cost after epoch 320: 0.088822
+Cost after epoch 330: 0.085214
+Cost after epoch 340: 0.086197
+Cost after epoch 350: 0.084672
+Cost after epoch 360: 0.084463
+Cost after epoch 370: 0.080850
+Cost after epoch 380: 0.080365
+Cost after epoch 390: 0.080981
+Cost after epoch 400: 0.077743
+Cost after epoch 410: 0.077506
+Cost after epoch 420: 0.077674
+Cost after epoch 430: 0.074577
+Cost after epoch 440: 0.076645
+Cost after epoch 450: 0.073037
+Cost after epoch 500: 0.071241
+Cost after epoch 510: 0.068813
+Cost after epoch 520: 0.068801
+Cost after epoch 530: 0.067500
+Cost after epoch 540: 0.067346
+Cost after epoch 550: 0.065483
+Cost after epoch 560: 0.064921
+Cost after epoch 570: 0.065666
+Cost after epoch 580: 0.062938
+Cost after epoch 590: 0.062045
+Cost after epoch 600: 0.061791
+Cost after epoch 610: 0.062267
+Cost after epoch 620: 0.060485
+
+
+Arquitectura:  84-1000-500-2  Learning Rate:  0.0001  Dropout  1  Epoch:  100
+Cost after epoch 0: 0.327271
+Cost after epoch 10: 0.269821
+Cost after epoch 20: 0.243523
+Cost after epoch 30: 0.223255
+Cost after epoch 40: 0.207431
+Cost after epoch 50: 0.194765
+Cost after epoch 60: 0.184460
+Cost after epoch 70: 0.173095
+Cost after epoch 80: 0.165356
+Cost after epoch 90: 0.158381
+Accuracity Train:  0.95111 Accuracity Test:  0.871327
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00015  Dropout  1  Epoch:  100
+Cost after epoch 0: 0.328350
+Cost after epoch 10: 0.272019
+Cost after epoch 20: 0.245055
+Cost after epoch 60: 0.183446
+Cost after epoch 70: 0.172829
+Cost after epoch 80: 0.164127
+Cost after epoch 90: 0.158164
+Accuracity Train:  0.952198 Accuracity Test:  0.872512
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.0002  Dropout  1  Epoch:  100
+Cost after epoch 0: 0.329123
+Cost after epoch 10: 0.274153
+Cost after epoch 20: 0.247638
+Cost after epoch 30: 0.226291
+Cost after epoch 40: 0.209823
+Cost after epoch 50: 0.196867
+Cost after epoch 60: 0.185771
+Cost after epoch 70: 0.174255
+Cost after epoch 80: 0.165502
+Cost after epoch 90: 0.158648
+Accuracity Train:  0.950588 Accuracity Test:  0.87263
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00024  Dropout  1  Epoch:  100
+Cost after epoch 0: 0.329296
+Cost after epoch 10: 0.275123
+Cost after epoch 20: 0.248739
+Cost after epoch 30: 0.227761
+Cost after epoch 40: 0.211239
+Cost after epoch 50: 0.197795
+Cost after epoch 60: 0.186913
+Cost after epoch 70: 0.175265
+Cost after epoch 80: 0.166509
+Cost after epoch 90: 0.160774
+Accuracity Train:  0.950274 Accuracity Test:  0.873815
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.0004  Dropout  1  Epoch:  100
+Cost after epoch 0: 0.330968
+Cost after epoch 10: 0.279258
+Cost after epoch 20: 0.254563
+Cost after epoch 30: 0.234347
+Cost after epoch 40: 0.217881
+Cost after epoch 50: 0.203725
+Cost after epoch 60: 0.191924
+Cost after epoch 70: 0.179699
+Cost after epoch 80: 0.172825
+Cost after epoch 90: 0.164600
+Accuracity Train:  0.948455 Accuracity Test:  0.873934
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00049  Dropout  1  Epoch:  100
+Cost after epoch 0: 0.331275
+Cost after epoch 10: 0.281502
+Cost after epoch 20: 0.258230
+Cost after epoch 30: 0.237084
+Cost after epoch 80: 0.175459
+Cost after epoch 90: 0.168752
+Accuracity Train:  0.947326 Accuracity Test:  0.87346
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00062  Dropout  1  Epoch:  100
+Cost after epoch 0: 0.331712
+Cost after epoch 10: 0.283285
+Cost after epoch 20: 0.260395
+Cost after epoch 30: 0.240409
+Cost after epoch 40: 0.224318
+Cost after epoch 50: 0.211005
+Cost after epoch 60: 0.199460
+Cost after epoch 70: 0.186604
+Cost after epoch 80: 0.179601
+Cost after epoch 90: 0.172195
+Accuracity Train:  0.945694 Accuracity Test:  0.871919
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00068  Dropout  1  Epoch:  100
+Cost after epoch 0: 0.332392
+
+
+Arquitectura:  84-400-300-200-100-50-25-2  Learning Rate:  0.0001  Dropout  1  Epoch:  50  Inicializar:  1
+Cost after epoch 0: 0.533393
+Cost after epoch 10: 0.274692
+Cost after epoch 20: 0.245203
+Cost after epoch 30: 0.224986
+Cost after epoch 40: 0.206553
+Accuracity Train:  0.931747 Accuracity Test:  0.873223
+----- ----- -----
+Arquitectura:  84-400-300-200-100-50-25-2  Learning Rate:  0.00015  Dropout  1  Epoch:  50  Inicializar:  1
+Cost after epoch 0: 0.466144
+Cost after epoch 10: 0.274217
+Cost after epoch 20: 0.241519
+Cost after epoch 30: 0.219783
+Cost after epoch 40: 0.203637
+Accuracity Train:  0.932479 Accuracity Test:  0.878673
+----- ----- -----
+Arquitectura:  84-400-300-200-100-50-25-2  Learning Rate:  0.0002  Dropout  1  Epoch:  50  Inicializar:  1
+Cost after epoch 0: 0.430343
+Cost after epoch 10: 0.274933
+Cost after epoch 20: 0.242152
+Cost after epoch 10: 0.277329
+Cost after epoch 20: 0.245836
+Cost after epoch 30: 0.222575
+Cost after epoch 40: 0.204045
+Accuracity Train:  0.931287 Accuracity Test:  0.878436
+----- ----- -----
+Arquitectura:  84-400-300-200-100-50-25-2  Learning Rate:  0.0004  Dropout  1  Epoch:  50  Inicializar:  1
+Cost after epoch 0: 0.374536
+Cost after epoch 10: 0.280347
+Cost after epoch 20: 0.251401
+Cost after epoch 30: 0.228055
+Cost after epoch 40: 0.210251
+Accuracity Train:  0.927899 Accuracity Test:  0.876066
+----- ----- -----
+Arquitectura:  84-400-300-200-100-50-25-2  Learning Rate:  0.00049  Dropout  1  Epoch:  50  Inicializar:  1
+Cost after epoch 0: 0.364169
+Cost after epoch 10: 0.282203
+Cost after epoch 20: 0.254841
+Cost after epoch 30: 0.233586
+Cost after epoch 40: 0.216963
+Accuracity Train:  0.925348 Accuracity Test:  0.876422
+----- ----- -----
+Arquitectura:  84-400-300-200-100-50-25-2  Learning Rate:  0.00062  Dropout  1  Epoch:  50  Inicializar:  1
+Cost after epoch 0: 0.354965
+Cost after epoch 10: 0.284254
+Cost after epoch 20: 0.259853
+Cost after epoch 30: 0.237955
+Cost after epoch 40: 0.219340
+Accuracity Train:  0.923445 Accuracity Test:  0.875118
+----- ----- -----
+Arquitectura:  84-400-300-200-100-50-25-2  Learning Rate:  0.00068  Dropout  1  Epoch:  50  Inicializar:  1
+Cost after epoch 0: 0.350314
+Cost after epoch 10: 0.284932
+Cost after epoch 20: 0.262114
+Cost after epoch 30: 0.241898
+Cost after epoch 40: 0.223163
+Accuracity Train:  0.925411 Accuracity Test:  0.88045
+----- ----- -----
+Arquitectura:  84-400-300-200-100-50-25-2  Learning Rate:  0.0012  Dropout  1  Epoch:  50  Inicializar:  1
+Cost after epoch 0: 0.337107
+Cost after epoch 10: 0.287620
+Cost after epoch 20: 0.269145
+Cost after epoch 30: 0.251914
+Cost after epoch 40: 0.234741
+Accuracity Train:  0.917047 Accuracity Test:  0.879858
+----- ----- -----
+Arquitectura:  84-400-300-200-100-50-25-2  Learning Rate:  0.00276  Dropout  1  Epoch:  50  Inicializar:  1
+Cost after epoch 0: 0.328773
+Cost after epoch 10: 0.290820
+Cost after epoch 20: 0.275063
+Cost after epoch 30: 0.260769
+Cost after epoch 40: 0.245269
+Accuracity Train:  0.912676 Accuracity Test:  0.88436
+----- ----- -----
+Arquitectura:  84-1600-800-400-200-100-50-25-2  Learning Rate:  0.0001  Dropout  1  Epoch:  50  Inicializar:  1
+Cost after epoch 0: 0.492555
+Cost after epoch 10: 0.277505
+Cost after epoch 40: 0.194036
+Accuracity Train:  0.936347 Accuracity Test:  0.871801
+----- ----- -----
+Arquitectura:  84-1600-800-400-200-100-50-25-2  Learning Rate:  0.00015  Dropout  1  Epoch:  50  Inicializar:  1
+Cost after epoch 0: 0.444289
+Cost after epoch 10: 0.280397
+Cost after epoch 20: 0.248034
+Cost after epoch 30: 0.221340
+
+
+--------------------wwwwwwwwwwwwwwwwwwwwwwwwwwwwwww2
+Arquitectura:  84-1000-500-2  Learning Rate:  0.0001  Dropout  1  Epoch:  50
+Cost after epoch 0: 0.327271
+Cost after epoch 10: 0.269821
+Cost after epoch 20: 0.243523
+Cost after epoch 30: 0.223255
+Cost after epoch 40: 0.207431
+Accuracity Train:  0.932437 Accuracity Test:  0.880213
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00015  Dropout  1  Epoch:  50
+Cost after epoch 0: 0.328350
+Cost after epoch 10: 0.272019
+Cost after epoch 20: 0.245055
+Cost after epoch 30: 0.224558
+Cost after epoch 40: 0.208025
+Accuracity Train:  0.93137 Accuracity Test:  0.880687
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.0002  Dropout  1  Epoch:  50
+Cost after epoch 0: 0.329123
+Cost after epoch 10: 0.274153
+Cost after epoch 20: 0.247638
+Cost after epoch 30: 0.226291
+Cost after epoch 40: 0.209823
+Accuracity Train:  0.9293 Accuracity Test:  0.881517
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00024  Dropout  1  Epoch:  50
+Cost after epoch 0: 0.329296
+Cost after epoch 30: 0.227761
+Cost after epoch 40: 0.211239
+Accuracity Train:  0.929928 Accuracity Test:  0.880095
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.0004  Dropout  1  Epoch:  50
+Cost after epoch 0: 0.330968
+Cost after epoch 10: 0.279258
+Cost after epoch 20: 0.254563
+Cost after epoch 30: 0.234347
+Cost after epoch 40: 0.217881
+Accuracity Train:  0.926498 Accuracity Test:  0.881872
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00049  Dropout  1  Epoch:  50
+Cost after epoch 0: 0.331275
+Cost after epoch 10: 0.281502
+Cost after epoch 20: 0.258230
+Cost after epoch 30: 0.237084
+Cost after epoch 40: 0.221332
+Accuracity Train:  0.925976 Accuracity Test:  0.881398
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00062  Dropout  1  Epoch:  50
+Cost after epoch 0: 0.331712
+Cost after epoch 10: 0.283285
+Cost after epoch 20: 0.260395
+Cost after epoch 30: 0.240409
+Cost after epoch 40: 0.224318
+Accuracity Train:  0.924324 Accuracity Test:  0.882346
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00068  Dropout  1  Epoch:  50
+Cost after epoch 0: 0.332392
+Cost after epoch 10: 0.283931
+Cost after epoch 20: 0.261677
+Cost after epoch 30: 0.241761
+Cost after epoch 40: 0.225077
+Accuracity Train:  0.92424 Accuracity Test:  0.880569
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.0012  Dropout  1  Epoch:  50
+Cost after epoch 0: 0.333902
+Cost after epoch 10: 0.288839
+Cost after epoch 20: 0.269018
+Cost after epoch 30: 0.249521
+Cost after epoch 40: 0.233571
+Accuracity Train:  0.9192 Accuracity Test:  0.883294
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00276  Dropout  1  Epoch:  50
+Cost after epoch 0: 0.339441
+Cost after epoch 10: 0.298736
+Cost after epoch 20: 0.278043
+Cost after epoch 30: 0.262089
+Cost after epoch 40: 0.247494
+Accuracity Train:  0.913011 Accuracity Test:  0.886019
+----- ----- -----
+Arquitectura:  84-1600-800-400-200-100-50-25-2  Learning Rate:  0.0001  Dropout  1  Epoch:  50
+Cost after epoch 0: 0.492555
+Cost after epoch 10: 0.277505
+Cost after epoch 20: 0.240238
+Cost after epoch 40: 0.194036
+Accuracity Train:  0.936347 Accuracity Test:  0.871801
+----- ----- -----
+Arquitectura:  84-1600-800-400-200-100-50-25-2  Learning Rate:  0.00015  Dropout  1  Epoch:  50
+Cost after epoch 0: 0.444289
+Cost after epoch 10: 0.280397
+Cost after epoch 20: 0.248034
+Cost after epoch 30: 0.221340
+Cost after epoch 40: 0.200573
+
+
+mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+Arquitectura:  84-1000-500-2  Learning Rate:  0.0001  Dropout  1  Epoch:  200
+Cost after epoch 0: 0.327271
+Cost after epoch 10: 0.269821
+Cost after epoch 20: 0.243523
+Cost after epoch 30: 0.223255
+Cost after epoch 40: 0.207431
+Cost after epoch 50: 0.194765
+Cost after epoch 60: 0.184460
+Cost after epoch 70: 0.173095
+Cost after epoch 80: 0.165356
+Cost after epoch 110: 0.146019
+Cost after epoch 120: 0.143117
+Cost after epoch 130: 0.138610
+Cost after epoch 140: 0.132644
+Cost after epoch 150: 0.129906
+Cost after epoch 160: 0.124504
+Cost after epoch 170: 0.120674
+Cost after epoch 180: 0.118563
+Cost after epoch 190: 0.114759
+Accuracity Train:  0.965183 Accuracity Test:  0.856398
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00015  Dropout  1  Epoch:  200
+Cost after epoch 0: 0.328350
+Cost after epoch 10: 0.272019
+Cost after epoch 20: 0.245055
+Cost after epoch 30: 0.224558
+Cost after epoch 40: 0.208025
+Cost after epoch 50: 0.194404
+Cost after epoch 60: 0.183446
+Cost after epoch 70: 0.172829
+Cost after epoch 80: 0.164127
+Cost after epoch 90: 0.158164
+Cost after epoch 100: 0.153021
+Cost after epoch 110: 0.145924
+Cost after epoch 120: 0.140243
+Cost after epoch 130: 0.137638
+Cost after epoch 140: 0.132096
+Cost after epoch 150: 0.128362
+Cost after epoch 160: 0.122877
+Cost after epoch 170: 0.120427
+Cost after epoch 180: 0.116989
+Cost after epoch 190: 0.113807
+Accuracity Train:  0.964347 Accuracity Test:  0.856872
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.0002  Dropout  1  Epoch:  200
+Cost after epoch 0: 0.329123
+Cost after epoch 10: 0.274153
+Cost after epoch 20: 0.247638
+Cost after epoch 30: 0.226291
+Cost after epoch 40: 0.209823
+Cost after epoch 50: 0.196867
+Cost after epoch 60: 0.185771
+Cost after epoch 70: 0.174255
+Cost after epoch 80: 0.165502
+Cost after epoch 90: 0.158648
+Cost after epoch 130: 0.137522
+Cost after epoch 140: 0.132055
+Cost after epoch 150: 0.131086
+Cost after epoch 160: 0.124961
+Cost after epoch 170: 0.119938
+Cost after epoch 180: 0.119351
+Cost after epoch 190: 0.115141
+Accuracity Train:  0.965978 Accuracity Test:  0.862441
+----- ----- -----
+Arquitectura:  84-1000-500-2  Learning Rate:  0.00024  Dropout  1  Epoch:  200
+Cost after epoch 0: 0.329296
+Cost after epoch 10: 0.275123
+Cost after epoch 20: 0.248739
+Cost after epoch 30: 0.227761
+Cost after epoch 40: 0.211239
+Cost after epoch 50: 0.197795
+
+
